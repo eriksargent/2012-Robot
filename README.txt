@@ -1,7 +1,8 @@
 This code is written by FIRST Team 2993, The InTech Megabots, for the 2012 season.
 
 
-Copyright (c) 2012, FIRST Team 2993, The InTech Megabots All rights reserved.
+Copyright (c) 2012, FIRST Team 2993, The InTech Megabots
+All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
